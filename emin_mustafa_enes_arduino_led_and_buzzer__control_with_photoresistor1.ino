@@ -1,4 +1,4 @@
-//Grup 6 : Mustafa Atila, Umut İlhan Beyaztaş, Emin Ayyıldız, Ecem Gelmez, Sude İrem Yapıcı
+//Emin Ayyıldız - Mustafa Atila - Mustafa Enes Özdel
 int led1 = 2;
 int led2 = 3;
 int led3 = 4;
